@@ -1,0 +1,11 @@
+
+Part of homework assignment
+
+To run you need standard linux build environment (g++, make, etc...)
+
+- "make" will compile this homework
+- "./hw" is the resulting executable
+
+
+Simulation will run 3 devices and one monitor for about 2 seconds. Each device will send message every 100ms. Monitor counts messages and at the end it will print the counters.
+
